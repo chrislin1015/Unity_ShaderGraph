@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Ice_AO:
-        m_Texture: {fileID: 2800000, guid: 9ede5712894f03247b1ca04ac3580c46, type: 3}
+        m_Texture: {fileID: 2800000, guid: b280127fee10c0b4ba6f886a640d84dc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Ice_Normal:
@@ -58,7 +58,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Displacement_Strength: 0
+    - _Displacement_Strength: 0.21
     - _Fresnel_Strength: 0.06
     - _QueueControl: 0
     - _QueueOffset: 0
